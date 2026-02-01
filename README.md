@@ -1,22 +1,22 @@
-# Peacebuilding Research Repository
+# Kazakhstan Peacebuilding Research
 
-A personal knowledge base for research, citations, thoughts, and ideas in peacebuilding and conflict transformation.
+Research repository for peacebuilding work in Kazakhstan, conducted within the framework of CCDP Geneva.
 
 ## Purpose
 
-This repository serves as a central hub for collecting and organizing research materials, insights, and reflections across key thematic areas in peacebuilding. Materials stored here can later be developed into essays, presentations, policy briefs, or action plans.
+This repository serves as a central hub for collecting and organizing research materials, insights, and reflections on peacebuilding in Kazakhstan. Materials support field research, including the upcoming visit to Astana, and can be developed into reports, presentations, policy briefs, or action plans.
 
 ## Thematic Areas
 
 | Thematic Area | Description | Quick Add |
 |--------------|-------------|-----------|
-| [Conflict Resolution](./conflict-resolution/) | Theories, methods, and case studies on resolving conflicts at various levels | `#conflict-resolution` |
+| [Conflict Resolution](./conflict-resolution/) | Theories, methods, and approaches to conflict resolution in the Kazakhstan context | `#conflict-resolution` |
 | [Dialogue & Mediation](./dialogue-and-mediation/) | Facilitation techniques, mediation processes, and dialogue frameworks | `#dialogue` |
-| [Trauma & Healing](./trauma-and-healing/) | Psychosocial approaches, healing practices, and trauma-informed interventions | `#trauma` |
 | [Policy & Advocacy](./policy-and-advocacy/) | Policy analysis, advocacy strategies, and institutional frameworks | `#policy` |
 | [Education & Training](./education-and-training/) | Peace education, capacity building, and training methodologies | `#education` |
 | [Community Building](./community-building/) | Social cohesion, reconciliation, and community-based peacebuilding | `#community` |
 | [Gender & Inclusion](./gender-and-inclusion/) | Gender perspectives, inclusive practices, and marginalized voices | `#gender` |
+| [Astana Field Visit](./astana-visit/) | Materials, plans, and observations for the field visit to Astana | `#astana` |
 
 ## How to Use
 
@@ -73,15 +73,15 @@ her.job/
 │   └── plans/
 ├── dialogue-and-mediation/
 │   ├── ...
-├── trauma-and-healing/
-│   ├── ...
 ├── policy-and-advocacy/
 │   ├── ...
 ├── education-and-training/
 │   ├── ...
 ├── community-building/
 │   ├── ...
-└── gender-and-inclusion/
+├── gender-and-inclusion/
+│   ├── ...
+└── astana-visit/
     ├── ...
 ```
 

@@ -4,7 +4,7 @@ Research, citations, and reflections on conflict resolution theories, methods, a
 
 ## Overview
 
-This area focuses on understanding and addressing conflicts at interpersonal, community, national, and international levels. It encompasses theoretical frameworks, practical methodologies, and case studies of conflict transformation.
+This area focuses on understanding and addressing conflicts in the Kazakhstan context. It encompasses theoretical frameworks, practical methodologies, and analysis of conflict dynamics specific to peacebuilding work in Kazakhstan.
 
 ## Key Topics
 
@@ -27,8 +27,8 @@ This area focuses on understanding and addressing conflicts at interpersonal, co
 ## Related Thematic Areas
 
 - [Dialogue & Mediation](../dialogue-and-mediation/) - Practical conflict resolution tools
-- [Trauma & Healing](../trauma-and-healing/) - Addressing conflict's psychological impacts
 - [Community Building](../community-building/) - Community-level conflict transformation
+- [Astana Visit](../astana-visit/) - Field observations on conflict dynamics
 
 ---
 
