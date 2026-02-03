@@ -6,17 +6,17 @@ set -e
 
 # Configuration
 REPO_OWNER="lucianstuparu"
-REPO_NAME="her.job"
-PROJECT_ID="PVT_kwHOAKRZo84BOBlm"
-STATUS_FIELD_ID="PVTSSF_lAHOAKRZo84BOBlmzg82QFE"
-DEADLINE_FIELD_ID="PVTF_lAHOAKRZo84BOBlmzg829XM"
+REPO_NAME="inst.job"
+PROJECT_ID="PVT_kwHOAKRZo84BON5B"
+STATUS_FIELD_ID="PVTSSF_lAHOAKRZo84BON5Bzg8-9t0"
+DEADLINE_FIELD_ID="PVTF_lAHOAKRZo84BON5Bzg8-93o"
 
 # Status option IDs
 declare -A STATUS_IDS=(
-    ["todo"]="f75ad846"
-    ["next"]="34c960b0"
-    ["in-progress"]="47fc9ee4"
-    ["done"]="98236657"
+    ["todo"]="ac9844cf"
+    ["next"]="acd48498"
+    ["in-progress"]="4fba7b52"
+    ["done"]="cce8eea9"
 )
 
 # Check required environment variable
